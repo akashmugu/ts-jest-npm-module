@@ -9,7 +9,6 @@
   ],
   "scripts": {
     "test": "jest",
-    "test:watch": "jest --watch",
     "build": "tsc",
     "prepare": "npm test && npm run build"
   },
