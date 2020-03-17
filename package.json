@@ -16,14 +16,14 @@
   "author": "Author Name",
   "license": "ISC",
   "devDependencies": {
-    "@types/jest": "^24.0.23",
-    "@types/node": "^12.12.20",
-    "@typescript-eslint/eslint-plugin": "^2.23.0",
-    "@typescript-eslint/parser": "^2.23.0",
+    "@types/jest": "^25.1.4",
+    "@types/node": "^13.9.1",
+    "@typescript-eslint/eslint-plugin": "^2.24.0",
+    "@typescript-eslint/parser": "^2.24.0",
     "eslint": "^6.8.0",
-    "jest": "^24.9.0",
+    "jest": "^25.1.0",
     "shx": "^0.3.2",
-    "ts-jest": "^24.2.0",
-    "typescript": "^3.7.3"
+    "ts-jest": "^25.2.1",
+    "typescript": "^3.8.3"
   }
 }
