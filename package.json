@@ -10,7 +10,8 @@
   "scripts": {
     "lint": "eslint --ext .ts,.tsx src",
     "test": "jest",
-    "build": "npm run lint && npm run test && tsc"
+    "prebuild": "npm run lint && npm run test",
+    "build": "tsc"
   },
   "author": "Author Name",
   "license": "ISC",
